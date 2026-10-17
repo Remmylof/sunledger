@@ -1,0 +1,5 @@
+numpy>=1.26
+pandas>=2.1
+scikit-learn>=1.4
+# optional, only for `oracle.py --send`
+# web3>=6.0
