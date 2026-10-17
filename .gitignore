@@ -1,0 +1,11 @@
+node_modules/
+artifacts/
+cache/
+typechain-types/
+coverage/
+coverage.json
+.env
+__pycache__/
+*.pyc
+.venv/
+ai/out/
