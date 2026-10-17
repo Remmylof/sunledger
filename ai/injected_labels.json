@@ -1,0 +1,38 @@
+[
+  {
+    "timestamp": "2026-10-06T02:00:00+01:00",
+    "kind": "night_generation",
+    "original_kwh": 0.0,
+    "fake_kwh": 18.4
+  },
+  {
+    "timestamp": "2026-10-08T23:00:00+01:00",
+    "kind": "night_generation",
+    "original_kwh": 0.0,
+    "fake_kwh": 11.75
+  },
+  {
+    "timestamp": "2026-10-07T12:00:00+01:00",
+    "kind": "spike_over_capacity",
+    "original_kwh": 24.09,
+    "fake_kwh": 96.3
+  },
+  {
+    "timestamp": "2026-10-09T13:00:00+01:00",
+    "kind": "spike_over_capacity",
+    "original_kwh": 26.267,
+    "fake_kwh": 71.2
+  },
+  {
+    "timestamp": "2026-10-10T11:00:00+01:00",
+    "kind": "inflated_cloudy_hour",
+    "original_kwh": 17.435,
+    "fake_kwh": 37.126
+  },
+  {
+    "timestamp": "2026-10-11T15:00:00+01:00",
+    "kind": "inflated_reading",
+    "original_kwh": 18.353,
+    "fake_kwh": 35.853
+  }
+]
